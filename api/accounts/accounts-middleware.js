@@ -1,5 +1,3 @@
-
-
 exports.checkAccountPayload = (req, res, next) => {
   // DO YOUR MAGIC
   console.log('checkAccountPayload middleware')
